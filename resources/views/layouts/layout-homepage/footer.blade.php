@@ -14,12 +14,12 @@
                         class="w-10 h-10 rounded-full bg-slate-100 flex items-center justify-center text-slate-600 hover:bg-[#A855F7] hover:text-white transition-all duration-300">
                         <i class="fab fa-instagram text-lg"></i>
                     </a>
-                    <a href="#"
+                    <a href="https://www.tiktok.com/@khafidswimmingclub1?_r=1&_t=ZS-95k2GUVW5qu"
                         target="_blank"
                         class="w-10 h-10 rounded-full bg-slate-100 flex items-center justify-center text-slate-600 hover:bg-black hover:text-white transition-all duration-300">
                         <i class="fab fa-tiktok text-lg"></i>
                     </a>
-                    <a href="#"
+                    <a href="https://youtube.com/@khafidswimmingclub?si=MR4g0Vtf8K-RA2WN"
                         target="_blank"
                         class="w-10 h-10 rounded-full bg-slate-100 flex items-center justify-center text-slate-600 hover:bg-[#FF0000] hover:text-white transition-all duration-300">
                         <i class="fab fa-youtube text-lg"></i>
